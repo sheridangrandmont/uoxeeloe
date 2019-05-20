@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahphiephu.cinderfish.xyz/sitemap.xml
